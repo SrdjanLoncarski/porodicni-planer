@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+
+node_modules/
+**/node_modules/
+
+.next/
+**/.next/
+out/
+build/
+coverage/
+
+.vercel/
+*.tsbuildinfo
+.DS_Store
+*.pem
